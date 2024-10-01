@@ -1,2 +1,5 @@
-console.log('hello world')
-console.log('first hello')
+console.log('first')
+
+console.log('second')
+
+console.log('third')
